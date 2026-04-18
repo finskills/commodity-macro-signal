@@ -62,7 +62,7 @@ Claude: [Fetches all commodity prices + history + FRED series, computes ratios, 
 
 ## Requirements
 
-- **Finskills API Key**: [Get one free](https://finskills.net/register) — **free plan is sufficient**
+- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
 - **Claude** with skill support
 
 ## License
