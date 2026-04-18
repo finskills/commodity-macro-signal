@@ -1,14 +1,15 @@
 ---
 name: Commodity Macro Signal
-version: 1.0.1
+version: 1.0.2
 description: "Analyze energy, metals, and agricultural commodity markets alongside macro indicators to generate cross-asset macro signals."
 author: finskills
-homepage: https://github.com/finskills/commodity-macro-signal
-credentials:
-  - name: FINSKILLS_API_KEY
-    description: "Finskills API key — register for free at https://finskills.net (free tier sufficient for all endpoints used in this skill)"
-    required: true
-    link: https://finskills.net
+metadata:
+  openclaw:
+    requires:
+      env:
+        - FINSKILLS_API_KEY
+    primaryEnv: FINSKILLS_API_KEY
+  homepage: https://github.com/finskills/commodity-macro-signal
 ---
 
 # Commodity Macro Signal
