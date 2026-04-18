@@ -1,6 +1,6 @@
 ---
 name: Commodity Macro Signal
-version: 1.0.0
+version: 1.0.1
 description: "Analyze energy, metals, and agricultural commodity markets alongside macro indicators to generate cross-asset macro signals."
 author: finskills
 homepage: https://github.com/finskills/commodity-macro-signal

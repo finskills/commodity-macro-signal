@@ -21,9 +21,11 @@
 
 ## Install
 
-```bash
-npx skills add https://github.com/finskills/commodity-macro-signal --skill commodity-macro-signal
-```
+Add this skill via [ClawHub](https://clawhub.ai/finskills/commodity-macro-signal):
+
+1. Visit **[https://clawhub.ai/finskills/commodity-macro-signal](https://clawhub.ai/finskills/commodity-macro-signal)**
+2. Click **Download zip** and follow the setup instructions
+3. Set your API key: `FINSKILLS_API_KEY=your_key_here`
 
 ## Quick Start
 
