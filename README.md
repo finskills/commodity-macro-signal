@@ -22,7 +22,7 @@
 ## Install
 
 ```bash
-npx skills add https://github.com/your-org/finskills-skills --skill commodity-macro-signal
+npx skills add https://github.com/finskills/commodity-macro-signal --skill commodity-macro-signal
 ```
 
 ## Quick Start
@@ -62,7 +62,7 @@ Claude: [Fetches all commodity prices + history + FRED series, computes ratios, 
 
 ## Requirements
 
-- **Finskills API Key** ([register here](https://finskills.net)): [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
+- **Finskills API Key**: [Register at finskills.net](https://finskills.net) (free tier available) — **free plan is sufficient**
 - **Claude** with skill support
 
 ## License
